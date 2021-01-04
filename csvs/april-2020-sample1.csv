@@ -1,0 +1,8 @@
+product,group_description,description,hours,start,end,USD,project_name
+Droplets,,nepalesest (s-1vcpu-1gb),720,2020-04-01 00:00:00 +0000,2020-05-01 00:00:00 +0000,$5.00,instance
+Droplets,,ems-1 (s-1vcpu-1gb),720,2020-04-01 00:00:00 +0000,2020-05-01 00:00:00 +0000,$5.00,instance
+Droplets,,sumitdai-itdurbar (s-1vcpu-2gb),720,2020-04-01 00:00:00 +0000,2020-05-01 00:00:00 +0000,$10.00,instance
+Droplets,,ubuntu-s-1vcpu-1gb-blr1-01 (s-1vcpu-1gb),720,2020-04-01 00:00:00 +0000,2020-05-01 00:00:00 +0000,$5.00,instance
+Droplets,,lemp-s-1vcpu-1gb-lon1-01 (s-1vcpu-2gb),720,2020-04-01 00:00:00 +0000,2020-05-01 00:00:00 +0000,$10.00,instance
+Droplets,,lemp-s-1vcpu-1gb-blr1-01 (s-1vcpu-1gb),720,2020-04-01 00:00:00 +0000,2020-05-01 00:00:00 +0000,$5.00,instance
+Taxes,,GST Australia (10.00%),,2020-04-01 00:00:00 +0000,2020-04-30 23:59:59 +0000,$4.00,

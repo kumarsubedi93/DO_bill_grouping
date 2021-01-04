@@ -1,0 +1,5 @@
+product,group_description,description,hours,start,end,USD,project_name
+Droplets,,subedi-vps (s-1vcpu-1gb),744,2019-08-01 00:00:00 +0000,2019-09-01 00:00:00 +0000,$5.00,instance
+Droplets,,sumitdai-itdurbar (s-1vcpu-1gb),744,2019-08-01 00:00:00 +0000,2019-09-01 00:00:00 +0000,$5.00,instance
+Droplets,,bhusalb (s-1vcpu-1gb),272,2019-08-01 00:00:00 +0000,2019-08-12 08:26:21 +0000,$2.02,instance
+Taxes,,GST Australia (10.00%),,2019-08-01 00:00:00 +0000,2019-08-31 23:59:59 +0000,$1.20,
